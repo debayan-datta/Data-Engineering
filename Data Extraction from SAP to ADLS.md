@@ -1,4 +1,4 @@
-# Data Extraction from CDS to ADLS
+# Data Extraction from SAP (Custom CDS) to ADLS
 
 ## Custom CDS views in SAP
 
