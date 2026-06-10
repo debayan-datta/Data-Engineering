@@ -22,7 +22,7 @@
 - Check if the Custom CDS view is present in the list along with an URL
 
 
-## Databricks Code (SAP &rarr ADLS)
+## Databricks Code (SAP &rarr; ADLS)
 
 ### Import all libraries
 ```
