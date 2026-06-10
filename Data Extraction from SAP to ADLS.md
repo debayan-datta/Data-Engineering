@@ -14,7 +14,7 @@
 - Search for ```Custom Communication Scenario```
 - Select the Communication scenario based on the Description (the most approproate one)
 - Edit and add the CDS view you created, Save it
-- Then Again Click Publish --> Wait for it to get Published
+- Then Again Click Publish. Wait for it to get Published
 
 ### For Verification:
 - Go to Communication Arrangement 
@@ -22,7 +22,7 @@
 - Check if the Custom CDS view is present in the list along with an URL
 
 
-## Databricks Code (SAP --> ADLS)
+## Databricks Code (SAP &rarr ADLS)
 
 ### Import all libraries
 ```
